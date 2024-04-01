@@ -14,7 +14,7 @@
 
 
 ## About Me 🚀
-  🎓I’m currently engineering student at parul university collage and highly motivated  and interested in  software devloper and cyber security. I believe that an undeterred will can overcome any kind of bug in code and obstacle in life.<br/>
+  🎓I’m currently engineering student at parul university collage and highly motivated  and interested in cyber security. I believe that an undeterred will can overcome any kind of bug in code and obstacle in life.<br/>
 
 
 ## Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" style="max-width: 100%;">
